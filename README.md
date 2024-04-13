@@ -5,4 +5,6 @@ Ini adalah `kode inline`.
 def hello_world():
     print("Hello, World!")
 ```
-1. Step 1
+1. Item 1
+2. Item 2
+3. Item 3
