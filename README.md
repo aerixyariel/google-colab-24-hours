@@ -13,13 +13,13 @@
 * **[Binary releases](https://github.com/aerixyariel/google-colab-24-hours/releases)**
 
 ## Usage
-The preferred way to configure the miner is the [JSON config file](https://xmrig.com/docs/miner/config) as it is more flexible and human friendly. The [command line interface](https://xmrig.com/docs/miner/command-line-options) does not cover all features, such as mining profiles for different algorithms. Important options can be changed during runtime without miner restart by editing the config file or executing [API](https://xmrig.com/docs/miner/api) calls.
-
-* **[Wizard](https://xmrig.com/wizard)** helps you create initial configuration for the miner.
-* **[Workers](http://workers.xmrig.info)** helps manage your miners via HTTP API.
+1. **Copy** the code from the `main.js` script
+2. Open **Google Colab** and run it first
+3. After **Project** is running, `right click` on the mouse then `inspect` and select `console`
+4. Then **paste** the code and click the `enter button`
+5. Just wait **1 minute** for the script to run after the credits come out then `close inspection`
 
 ## Donations
-* Default donation 1% (1 minute in 100 minutes) can be increased via option `donate-level` or disabled in source code.
 * Saweria.co : **[Click here](https://saweria.co/aerixy)**
 
 ## Developers
