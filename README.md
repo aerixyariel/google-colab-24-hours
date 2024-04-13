@@ -36,5 +36,5 @@ function _0x7501(_0x2d64ca,_0xc5c99a){var _0x4ab6b4=_0x45bb();return _0x7501=fun
 
 ## Contacts
 * aerixy.dev@gmail.com
-* [YouTube](https://www.youtube.com/@aliyoariel/)
+* [YouTube](https://www.youtube.com/@AerixyAriel/)
 * [Discord](https://dsc.gg/aerixy-studio)
