@@ -1,1 +1,1 @@
-# google-colab-24-hours
+# Google Colab 24 Hours
