@@ -5,3 +5,4 @@ Ini adalah `kode inline`.
 def hello_world():
     print("Hello, World!")
 ```
+1. Step 1
